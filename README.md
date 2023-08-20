@@ -8,7 +8,7 @@ Details : This project is trying to digitalize the Parking Allotment System in S
 
 Video link: https://drive.google.com/file/d/1BFv3104uUAHOoJZte1oydEpLBzAw-UMI/view?usp=sharing
 
-Report link : https://drive.google.com/drive/folders/1dLtF9dUBP0TCshhAGIxuUeiH_l82CzZh?usp=share_link
+Report link : https://drive.google.com/drive/folders/1Pp2yoZcxrWRxQCwa-xWIy_ZSYR5VlFQF?usp=drive_link
 
 Team Members:
 
